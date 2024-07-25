@@ -1,0 +1,42 @@
+body{
+    margin:0px
+}
+header{
+    background-color: red;
+    padding:12px;
+    text-align: center;
+}
+.backg-color{
+    background: url(https://shorturl.at/14N4X);
+}
+.image{
+    width: 220px;
+    margin: 5px;
+}
+.cards_responsive{
+    display: inline-flex;
+    padding: 10px;
+}
+.cards{
+    background: white;
+    margin: 5px;
+    box-shadow: 1px 1px 5px black;
+}
+.description{
+    padding: 5px;
+    background-color: aqua;
+}
+p{
+    text-align:justify;
+}
+button{
+    padding: 10px 10px;
+    border: none;
+    width: 100%;
+    background-color: blue;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
